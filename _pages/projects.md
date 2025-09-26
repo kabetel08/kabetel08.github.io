@@ -7,6 +7,7 @@ redirect_form:
   - /about/
   - /about.html
 ---
+{% include base_path %}
 
 # Computational Social Science Project
 _______
