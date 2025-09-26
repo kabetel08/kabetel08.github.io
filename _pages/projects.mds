@@ -6,7 +6,7 @@ author_profile: true
 redirect_form:
   - /about/
   - /about.html
-___
+---
 
 # Computational Social Science Project
 _______
